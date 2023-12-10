@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">carbon footprint calculator</string>
+    <string name="carbon_foot_print_calc">Carbon foot print in thw house calculator</string>
+    <string name="no_of_people">Number of people in house : </string>
+    <string name="activity">Activity : </string>
+    <string name="energy_consumption">Energy consumption</string>
+    <string name="transportation">Transportation</string>
+</resources>
